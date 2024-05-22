@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+![wangyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyf9&show_icons=true&theme=dracula)
 ![bright](https://raw.githubusercontent.com/wangyf9/wangyf9/output/github-contribution-grid-snake.svg)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 
 <!--
 ![dark](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
