@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+![bright](https://raw.githubusercontent.com/wangyf9/wangyf9/output/github-contribution-grid-snake.svg)
+
 <!--
+![dark](https://raw.githubusercontent.com/你的用户名/你的仓库名/output/github-contribution-grid-snake-dark.svg)
 **wangyf9/wangyf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
